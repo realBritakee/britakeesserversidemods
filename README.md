@@ -1,4 +1,4 @@
-# 7 Days to Die Alpha 21 Mods (01-15-2024)
+# 7 Days to Die Alpha 21 Mods (ServerSide) (01-15-2024)
 
 ![image](https://github.com/realBritakee/britakeesserversidemods/assets/127439938/3af78b4d-ee1e-4e21-acdd-1cabeafcf569)
 
