@@ -7,7 +7,7 @@
 1. To install the mod, click the green Code button top right, then click Download ZIP , open the file you downloaded with an extraction tool such as WinRAR or 7 Zip.
 
 2. Now move that folder to your Mods folder in your 7 Days to Die directory, if you do not have one, make one.
-Your directory should now look like this: ""steamapps\common\7 Days To Die\Mods\BritakeesServerSideMods""
+Your directory should now look like this: ""steamapps\common\7 Days To Die\Mods\(Name-of-the-mod)""
 
 3. If you want to Disable the mods and dintn want to delete it, simply rename the Mods folder to something like "Mods_BritakeePack"
 
