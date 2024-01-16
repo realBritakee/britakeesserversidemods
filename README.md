@@ -9,7 +9,7 @@
 2. Now move that folder to your Mods folder in your 7 Days to Die directory, if you do not have one, make one.
 Your directory should now look like this: ""steamapps\common\7 Days To Die\Mods\(Name-of-the-mod)""
 
-3. If you want to Disable the mods and dintn want to delete it, simply rename the Mods folder to something like "Mods_BritakeePack"
+3. If you want to Disable the Mods and didn´t want to delete them, simply rename the Mods folder to something like "Mods_BritakeePack"
 
 ## Note: Due to the The Fun Pimps changing how mods are loaded, these installation instructions will change soon
 
