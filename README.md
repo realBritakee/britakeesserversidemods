@@ -11,7 +11,7 @@ Your directory should now look like this: ""steamapps\common\7 Days To Die\Mods\
 
 3. If you want to Disable the mods and dintn want to delete it, simply rename the Mods folder to something like "Mods_BritakeePack"
 
-# Note: Due to the The Fun Pimps changing how mods are loaded, these installation instructions will change soon
+## Note: Due to the The Fun Pimps changing how mods are loaded, these installation instructions will change soon
 
 - # Britakee´s The Walking Dead Core
 
