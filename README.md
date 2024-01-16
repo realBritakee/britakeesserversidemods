@@ -1,10 +1,10 @@
-# Britakee´s 7 Days to Die Alpha 21 Full Server Side Mods (01-16-2024)
+# __Britakee´s 7 Days to Die Alpha 21 Full Server Side Mods__ (01-16-2024)
 
 ![image](https://github.com/realBritakee/britakeesserversidemods/assets/127439938/3af78b4d-ee1e-4e21-acdd-1cabeafcf569)
 
-This mod does quite a few different things with only XML so it means you only need to install it on your server (Not Client Side needed), this mod makes the game easier by making things easier to obtain early on, I did this as I work with other adults and we don't normally get a large amount of time after work to grind the game like necessary in order to get far in game.
+__ServerStarterKit__
 
-
+  - This mod does quite a few different things with only XML so it means you only need to install it on your server   (Not Client Side needed), this mod makes the game easier by making things easier to obtain early on, I did this as I work with other adults and we don't normally get a large amount of time after work to grind the game like necessary in order to get far in game.
 
 1. To install the mod, click the green Code button top right, then click Download ZIP , open the file you downloaded with an extraction tool such as WinRAR or 7 Zip.
 
@@ -12,3 +12,7 @@ This mod does quite a few different things with only XML so it means you only ne
 Your directory should now look like this: ""steamapps\common\7 Days To Die\Mods\BritakeesServerSideMods""
 
 Note: Due to the The Fun Pimps changing how mods are loaded, these installation instructions will change soon
+
+
+__Britakee´s ServerSide StarterKit__
+
