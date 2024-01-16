@@ -2,7 +2,7 @@
 
 ![image](https://github.com/realBritakee/britakeesserversidemods/assets/127439938/3af78b4d-ee1e-4e21-acdd-1cabeafcf569)
 
-# This mods does quite a few different things with only XML so it means you only need to install it on your server (Not Client Side needed)!
+# These mods does quite a few different things with only XML so it means you only need to install it on your server (Not Client Side needed)!
 
 - # How to Install?
 
