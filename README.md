@@ -1,4 +1,4 @@
-# 7 Days to Die Alpha 21 ServerStarterKit (Full Server Side Mods) (01-16-2024)
+# Britakee´s 7 Days to Die Alpha 21 Full Server Side Mods (01-16-2024)
 
 ![image](https://github.com/realBritakee/britakeesserversidemods/assets/127439938/3af78b4d-ee1e-4e21-acdd-1cabeafcf569)
 
@@ -12,7 +12,3 @@ This mod does quite a few different things with only XML so it means you only ne
 Your directory should now look like this: ""steamapps\common\7 Days To Die\Mods\BritakeesServerSideMods""
 
 Note: Due to the The Fun Pimps changing how mods are loaded, these installation instructions will change soon
-
-
-
-And Here is a List of Full Server Side Mods that i Collected:
